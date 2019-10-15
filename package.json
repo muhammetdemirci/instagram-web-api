@@ -55,7 +55,7 @@
     "is-url": "^1.2.2",
     "request": "^2.85.0",
     "request-promise-native": "^1.0.5",
-    "tough-cookie": "^2.3.4",
+    "tough-cookie-no-native": "^2.4.1",
     "useragent-from-seed": "^1.0.1"
   },
   "devDependencies": {
